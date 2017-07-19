@@ -11,5 +11,5 @@ Better name needed!
 * Transparent
 * Secure
 * Automated
-* Trustworthy
+* Trustworthy (NAA as certificate authority?)
 
